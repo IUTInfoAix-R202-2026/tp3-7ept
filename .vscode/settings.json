@@ -13,6 +13,7 @@
         "plaintext": false,
         "markdown": false,
         "scminput": false,
+        "java": false,
         "xml": true
     },
     "chat.tools.terminal.outputLocation": "terminal",
